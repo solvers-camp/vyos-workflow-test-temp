@@ -5,7 +5,6 @@ on: [issue_comment]
 permissions:
   pull-requests: write
   contents: read
-  issues: write
 
 jobs:
   mergifyio-backport:
