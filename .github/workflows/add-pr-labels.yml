@@ -9,9 +9,9 @@ on:
       - equuleus
       - sagitta
 
-# permissions:
-#   pull-requests: write
-#   contents: read
+permissions:
+  pull-requests: write
+  contents: read
 
 jobs:
   add-pr-label:
