@@ -4,9 +4,9 @@ on:
     types: [opened, reopened, ready_for_review, locked]
 
 
-permissions:
-  pull-requests: write
-  contents: read
+# permissions:
+#   pull-requests: write
+#   contents: read
 
 jobs:
   assign-author:

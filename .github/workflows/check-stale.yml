@@ -4,9 +4,9 @@ on:
   - cron: "0 0 * * *"
   workflow_dispatch:
 
-permissions:
-  pull-requests: write
-  contents: read
+# permissions:
+#   pull-requests: write
+#   contents: read
 
 jobs:
   stale:
