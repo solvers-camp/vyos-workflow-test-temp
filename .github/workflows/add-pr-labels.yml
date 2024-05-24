@@ -1,5 +1,5 @@
 ---
-name: Add pull request labels
+name: Add pull request label
 
 on:
   pull_request_target:
