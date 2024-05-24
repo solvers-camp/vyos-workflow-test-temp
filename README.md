@@ -56,7 +56,7 @@ Configuration interface definitions must conform to the schema found in
 conform to `schema/op-mode-definition.rng`. Schema checks are performed at build
 time, so a package with malformed interface definitions will not build.
 
-## Configuration script
+## Configuration scripts
 
 The guidelines in a nutshell:
 
