@@ -11,7 +11,7 @@ src
     tests/      # Unit tests
 ```
 =======
-# vyos-1x: VyOS command definitions, configuration scripts, and datas
+# vyos-1x: VyOS command definitions, configuration scripts, and data
 
 VyOS 1.1.x had its codebase split into way too many submodules for no good
 reason, which made it hard to navigate or write meaningful changelogs. As the
@@ -56,7 +56,7 @@ Configuration interface definitions must conform to the schema found in
 conform to `schema/op-mode-definition.rng`. Schema checks are performed at build
 time, so a package with malformed interface definitions will not build.
 
-## Configuration scripts
+## Configuration script
 
 The guidelines in a nutshell:
 
