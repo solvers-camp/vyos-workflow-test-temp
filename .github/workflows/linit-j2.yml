@@ -2,11 +2,11 @@
 name: J2 Lint
 
 on:
-  pull_request:
-    branches:
-      - current
-      - crux
-      - equuleus
+  # pull_request:
+  #   branches:
+  #     - current
+  #     - crux
+  #     - equuleus
   workflow_dispatch:
 
 permissions:
