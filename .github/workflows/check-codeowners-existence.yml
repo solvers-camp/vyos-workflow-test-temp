@@ -8,7 +8,7 @@
 
     permissions:
       pull-requests: write
-      contents: read
+      contents: write
 
     jobs:
       check-codeowners-existence:
