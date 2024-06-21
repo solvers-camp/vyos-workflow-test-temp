@@ -1,5 +1,5 @@
 ---
-    name: Check codeowners file existence
+    name: Check codeowners existence
 
     on:
         schedule:
