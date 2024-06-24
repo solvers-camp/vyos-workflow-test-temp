@@ -1,0 +1,13 @@
+[
+    {
+        "type": "warning",
+        "module": "test",
+        "obj": "",
+        "line": 1,
+        "column": 0,
+        "path": "test.py",
+        "symbol": "unused-import",
+        "message": "Unused path imported from os",
+        "message-id": "W0611"
+    }
+]

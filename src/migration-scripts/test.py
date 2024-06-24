@@ -1,4 +1,4 @@
-from os import path  # This is an unused import
+#from os import path
 
 def hello_world():
     print("Hello, world!")
